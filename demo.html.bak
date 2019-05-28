@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset = 'UTF-8'>
+		<title></title>
+		<link rel = "stylesheet" href = "iconfont/iconfont.css">
+		<style>
+		*{
+			margin:0;
+			padding:0;
+		}
+		.Okay{
+		
+			width:200px;
+			height:200px;
+			background-color: green;
+		
+		}
+
+		.icon-zuanshi{
+		
+		font-size:50px;
+		color:pink;
+		 
+		}
+
+
+		</style>
+	</head>
+
+	<body>
+		<i class='iconfont icon-gouwuche2'></i>
+		<i class='iconfont icon-zuanshi'></i>
+		<div class = "Okay">
+		<div>
+	</body>
+</html>
